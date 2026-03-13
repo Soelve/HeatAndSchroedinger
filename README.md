@@ -7,7 +7,7 @@ Tools -> Preferences -> IPython console -> Graphics tab (2nd tab from the left i
 
 The exersies are included here as a pdf file.
 
-The files are the following:
+The files are the following:<br>
 SolveHeatEq.py     -  Solves the heat equation using the Forward-Euler method<br>
 SolveHeatEqCN.py   -  Does the same but also including a solution using the Crank-Nicolson method<br>
 SolveTDSEnoPot     -  Solves the time-dependent Scrödinger equation for a free particle with a Gaussian initial wave<br>
