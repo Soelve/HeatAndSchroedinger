@@ -8,9 +8,9 @@ Tools -> Preferences -> IPython console -> Graphics tab (2nd tab from the left i
 The exersies are included here as a pdf file.
 
 The files are the following:
-SolveHeatEq.py     -  Solves the heat equation using the Forward-Euler method
-SolveHeatEqCN.py   -  Does the same but also including a solution using the Crank-Nicolson method
-SolveTDSEnoPot     -  Solves the time-dependent Scrödinger equation for a free particle with a Gaussian initial wave
-SolveTDSEwithPot   -  The same as above, but no the particle is exposed to a potential with a smooth rectangular shape
+SolveHeatEq.py     -  Solves the heat equation using the Forward-Euler method<br>
+SolveHeatEqCN.py   -  Does the same but also including a solution using the Crank-Nicolson method<br>
+SolveTDSEnoPot     -  Solves the time-dependent Scrödinger equation for a free particle with a Gaussian initial wave<br>
+SolveTDSEwithPot   -  The same as above, but no the particle is exposed to a potential with a smooth rectangular shape<br>
 SolveTDSE_ImTime   -  Uses the same implementation as above to find the ground state via propagation in imaginary time
 
